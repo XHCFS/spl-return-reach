@@ -1,0 +1,50 @@
+{
+ "V6A": {
+  "out_within_median": 0.065,
+  "out_to_in_median": -0.227,
+  "in_within_median": 0.006,
+  "in_to_out_median": -0.011,
+  "ceil_out_median": -0.271,
+  "ceil_in_median": -0.504,
+  "cond_var_out_median": 21.906,
+  "cond_var_in_median": 8.983,
+  "POP_out_within": 0.14,
+  "POP_out_to_in": -0.48,
+  "POP_in_within": 0.039,
+  "POP_in_to_out": -0.005,
+  "POP_ceil_out": -0.015,
+  "POP_ceil_in": -0.335
+ },
+ "PEc": {
+  "out_within_median": 0.086,
+  "out_to_in_median": -0.207,
+  "in_within_median": -0.007,
+  "in_to_out_median": -0.028,
+  "ceil_out_median": -0.144,
+  "ceil_in_median": -0.47,
+  "cond_var_out_median": 21.812,
+  "cond_var_in_median": 10.123,
+  "POP_out_within": 0.197,
+  "POP_out_to_in": -0.298,
+  "POP_in_within": 0.043,
+  "POP_in_to_out": -0.01,
+  "POP_ceil_out": -0.051,
+  "POP_ceil_in": -0.332
+ },
+ "PE": {
+  "out_within_median": 0.032,
+  "out_to_in_median": -0.14,
+  "in_within_median": -0.023,
+  "in_to_out_median": -0.078,
+  "ceil_out_median": -0.702,
+  "ceil_in_median": -0.667,
+  "cond_var_out_median": 14.882,
+  "cond_var_in_median": 11.51,
+  "POP_out_within": 0.023,
+  "POP_out_to_in": -0.187,
+  "POP_in_within": 0.003,
+  "POP_in_to_out": -0.04,
+  "POP_ceil_out": -0.649,
+  "POP_ceil_in": -0.59
+ }
+}

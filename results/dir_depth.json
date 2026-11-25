@@ -1,0 +1,146 @@
+{
+ "V6A|0-300|direction": {
+  "out_in": -0.155,
+  "ci": [
+   -0.402,
+   0.007
+  ],
+  "out_hold": 0.392,
+  "hold_in": 0.282,
+  "rel_out": 0.682,
+  "rel_in": 0.491,
+  "rel_hold": 0.509
+ },
+ "V6A|0-300|depth": {
+  "out_in": -0.009,
+  "ci": [
+   -0.155,
+   0.11
+  ],
+  "out_hold": 0.457,
+  "hold_in": -0.018,
+  "rel_out": 0.744,
+  "rel_in": 0.518,
+  "rel_hold": 0.608
+ },
+ "PEc|0-300|direction": {
+  "out_in": -0.094,
+  "ci": [
+   -0.238,
+   0.042
+  ],
+  "out_hold": 0.336,
+  "hold_in": 0.19,
+  "rel_out": 0.705,
+  "rel_in": 0.637,
+  "rel_hold": 0.697
+ },
+ "PEc|0-300|depth": {
+  "out_in": 0.008,
+  "ci": [
+   -0.163,
+   0.169
+  ],
+  "out_hold": 0.33,
+  "hold_in": 0.26,
+  "rel_out": 0.72,
+  "rel_in": 0.54,
+  "rel_hold": 0.594
+ },
+ "PE|0-300|direction": {
+  "out_in": -0.303,
+  "ci": [
+   -0.599,
+   -0.045
+  ],
+  "out_hold": 0.145,
+  "hold_in": 0.317,
+  "rel_out": 0.464,
+  "rel_in": 0.428,
+  "rel_hold": 0.167
+ },
+ "PE|0-300|depth": {
+  "out_in": -0.174,
+  "ci": [
+   -0.589,
+   0.129
+  ],
+  "out_hold": 0.297,
+  "hold_in": -0.157,
+  "rel_out": 0.489,
+  "rel_in": 0.3,
+  "rel_hold": 0.487
+ },
+ "V6A|-100-200|direction": {
+  "out_in": 0.045,
+  "ci": [
+   -0.075,
+   0.158
+  ],
+  "out_hold": 0.363,
+  "hold_in": 0.526,
+  "rel_out": 0.688,
+  "rel_in": 0.601,
+  "rel_hold": 0.545
+ },
+ "V6A|-100-200|depth": {
+  "out_in": -0.063,
+  "ci": [
+   -0.197,
+   0.064
+  ],
+  "out_hold": 0.436,
+  "hold_in": 0.332,
+  "rel_out": 0.771,
+  "rel_in": 0.55,
+  "rel_hold": 0.601
+ },
+ "PEc|-100-200|direction": {
+  "out_in": -0.042,
+  "ci": [
+   -0.185,
+   0.082
+  ],
+  "out_hold": 0.346,
+  "hold_in": 0.363,
+  "rel_out": 0.647,
+  "rel_in": 0.639,
+  "rel_hold": 0.59
+ },
+ "PEc|-100-200|depth": {
+  "out_in": 0.058,
+  "ci": [
+   -0.09,
+   0.211
+  ],
+  "out_hold": 0.35,
+  "hold_in": 0.389,
+  "rel_out": 0.737,
+  "rel_in": 0.543,
+  "rel_hold": 0.577
+ },
+ "PE|-100-200|direction": {
+  "out_in": -0.071,
+  "ci": [
+   -0.359,
+   0.177
+  ],
+  "out_hold": 0.298,
+  "hold_in": 0.52,
+  "rel_out": 0.47,
+  "rel_in": 0.444,
+  "rel_hold": 0.188
+ },
+ "PE|-100-200|depth": {
+  "out_in": -0.171,
+  "ci": [
+   -0.545,
+   0.184
+  ],
+  "out_hold": 0.21,
+  "hold_in": 0.108,
+  "rel_out": 0.382,
+  "rel_in": 0.325,
+  "rel_hold": 0.395
+ }
+}

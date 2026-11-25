@@ -1,0 +1,53 @@
+{
+ "V6A": {
+  "prep-exec": {
+   "overlap": 0.557,
+   "null": 0.482,
+   "spearman": 0.266
+  },
+  "exec-ret": {
+   "overlap": 0.424,
+   "null": 0.448,
+   "spearman": -0.049
+  },
+  "prep-ret": {
+   "overlap": 0.416,
+   "null": 0.434,
+   "spearman": -0.05
+  }
+ },
+ "PEc": {
+  "prep-exec": {
+   "overlap": 0.472,
+   "null": 0.435,
+   "spearman": 0.192
+  },
+  "exec-ret": {
+   "overlap": 0.448,
+   "null": 0.483,
+   "spearman": -0.08
+  },
+  "prep-ret": {
+   "overlap": 0.4,
+   "null": 0.407,
+   "spearman": 0.004
+  }
+ },
+ "PE": {
+  "prep-exec": {
+   "overlap": 0.464,
+   "null": 0.399,
+   "spearman": 0.226
+  },
+  "exec-ret": {
+   "overlap": 0.543,
+   "null": 0.457,
+   "spearman": 0.307
+  },
+  "prep-ret": {
+   "overlap": 0.457,
+   "null": 0.429,
+   "spearman": 0.125
+  }
+ }
+}

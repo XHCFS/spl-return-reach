@@ -1,0 +1,322 @@
+{
+ "ctrl_reg0|out_first_s0": {
+  "M1": {
+   "active_out_in": -0.16,
+   "passive_out_in": -0.04,
+   "passive_over_active_var_in": 1.03,
+   "passive_vs_active_in_r": 0.91
+  },
+  "M2": {
+   "active_out_in": 0.28,
+   "passive_out_in": 0.21,
+   "passive_over_active_var_in": 0.92,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M3": {
+   "active_out_in": 0.61,
+   "passive_out_in": 0.43,
+   "passive_over_active_var_in": 0.82,
+   "passive_vs_active_in_r": 0.98
+  }
+ },
+ "ctrl_reg0|out_first_s1": {
+  "M1": {
+   "active_out_in": -0.23,
+   "passive_out_in": -0.1,
+   "passive_over_active_var_in": 1.06,
+   "passive_vs_active_in_r": 0.92
+  },
+  "M2": {
+   "active_out_in": -0.08,
+   "passive_out_in": -0.09,
+   "passive_over_active_var_in": 0.96,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M3": {
+   "active_out_in": 0.3,
+   "passive_out_in": 0.2,
+   "passive_over_active_var_in": 0.85,
+   "passive_vs_active_in_r": 0.99
+  }
+ },
+ "ctrl_reg0|out_first_s2": {
+  "M1": {
+   "active_out_in": -0.19,
+   "passive_out_in": -0.08,
+   "passive_over_active_var_in": 1.06,
+   "passive_vs_active_in_r": 0.93
+  },
+  "M2": {
+   "active_out_in": 0.23,
+   "passive_out_in": 0.21,
+   "passive_over_active_var_in": 0.98,
+   "passive_vs_active_in_r": 1.0
+  },
+  "M3": {
+   "active_out_in": 0.37,
+   "passive_out_in": 0.24,
+   "passive_over_active_var_in": 0.91,
+   "passive_vs_active_in_r": 0.99
+  }
+ },
+ "ctrl_reg0|out_first_s3": {
+  "M1": {
+   "active_out_in": -0.23,
+   "passive_out_in": -0.1,
+   "passive_over_active_var_in": 1.01,
+   "passive_vs_active_in_r": 0.92
+  },
+  "M2": {
+   "active_out_in": -0.06,
+   "passive_out_in": -0.09,
+   "passive_over_active_var_in": 0.96,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M3": {
+   "active_out_in": 0.45,
+   "passive_out_in": 0.37,
+   "passive_over_active_var_in": 0.88,
+   "passive_vs_active_in_r": 0.99
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s0": {
+  "M1": {
+   "active_out_in": -0.39,
+   "passive_out_in": -0.37,
+   "passive_over_active_var_in": 0.97,
+   "passive_vs_active_in_r": 0.96
+  },
+  "M2": {
+   "active_out_in": -0.96,
+   "passive_out_in": -0.96,
+   "passive_over_active_var_in": 0.99,
+   "passive_vs_active_in_r": 1.0
+  },
+  "M3": {
+   "active_out_in": -0.96,
+   "passive_out_in": -0.96,
+   "passive_over_active_var_in": 1.0,
+   "passive_vs_active_in_r": 1.0
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s1": {
+  "M1": {
+   "active_out_in": -0.21,
+   "passive_out_in": -0.1,
+   "passive_over_active_var_in": 0.95,
+   "passive_vs_active_in_r": 0.9
+  },
+  "M2": {
+   "active_out_in": -0.87,
+   "passive_out_in": -0.87,
+   "passive_over_active_var_in": 0.99,
+   "passive_vs_active_in_r": 1.0
+  },
+  "M3": {
+   "active_out_in": -0.97,
+   "passive_out_in": -0.97,
+   "passive_over_active_var_in": 1.0,
+   "passive_vs_active_in_r": 1.0
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s2": {
+  "M1": {
+   "active_out_in": -0.27,
+   "passive_out_in": -0.18,
+   "passive_over_active_var_in": 0.94,
+   "passive_vs_active_in_r": 0.95
+  },
+  "M2": {
+   "active_out_in": -0.79,
+   "passive_out_in": -0.79,
+   "passive_over_active_var_in": 0.96,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M3": {
+   "active_out_in": -0.92,
+   "passive_out_in": -0.92,
+   "passive_over_active_var_in": 0.99,
+   "passive_vs_active_in_r": 1.0
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s3": {
+  "M1": {
+   "active_out_in": -0.32,
+   "passive_out_in": -0.26,
+   "passive_over_active_var_in": 0.87,
+   "passive_vs_active_in_r": 0.94
+  },
+  "M2": {
+   "active_out_in": -0.8,
+   "passive_out_in": -0.79,
+   "passive_over_active_var_in": 0.95,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M3": {
+   "active_out_in": -0.77,
+   "passive_out_in": -0.74,
+   "passive_over_active_var_in": 1.0,
+   "passive_vs_active_in_r": 0.99
+  }
+ },
+ "pm_g0|hier_s0": {
+  "M1": {
+   "active_out_in": -0.13,
+   "passive_out_in": 0.15,
+   "passive_over_active_var_in": 2.09,
+   "passive_vs_active_in_r": 0.36
+  },
+  "M2": {
+   "active_out_in": 0.17,
+   "passive_out_in": 0.21,
+   "passive_over_active_var_in": 1.03,
+   "passive_vs_active_in_r": 0.94
+  },
+  "M3": {
+   "active_out_in": 0.08,
+   "passive_out_in": 0.11,
+   "passive_over_active_var_in": 0.91,
+   "passive_vs_active_in_r": 0.97
+  }
+ },
+ "pm_g0|hier_s1": {
+  "M1": {
+   "active_out_in": 0.05,
+   "passive_out_in": 0.19,
+   "passive_over_active_var_in": 1.61,
+   "passive_vs_active_in_r": 0.41
+  },
+  "M2": {
+   "active_out_in": 0.24,
+   "passive_out_in": 0.26,
+   "passive_over_active_var_in": 1.13,
+   "passive_vs_active_in_r": 0.93
+  },
+  "M3": {
+   "active_out_in": 0.09,
+   "passive_out_in": 0.14,
+   "passive_over_active_var_in": 0.9,
+   "passive_vs_active_in_r": 0.99
+  }
+ },
+ "pm_g0|hier_s2": {
+  "M1": {
+   "active_out_in": 0.01,
+   "passive_out_in": 0.16,
+   "passive_over_active_var_in": 1.51,
+   "passive_vs_active_in_r": 0.39
+  },
+  "M2": {
+   "active_out_in": -0.02,
+   "passive_out_in": -0.01,
+   "passive_over_active_var_in": 0.99,
+   "passive_vs_active_in_r": 0.97
+  },
+  "M3": {
+   "active_out_in": -0.06,
+   "passive_out_in": -0.06,
+   "passive_over_active_var_in": 0.87,
+   "passive_vs_active_in_r": 0.98
+  }
+ },
+ "pm_g0|hier_s3": {
+  "M1": {
+   "active_out_in": -0.1,
+   "passive_out_in": 0.08,
+   "passive_over_active_var_in": 1.65,
+   "passive_vs_active_in_r": 0.16
+  },
+  "M2": {
+   "active_out_in": 0.15,
+   "passive_out_in": 0.14,
+   "passive_over_active_var_in": 1.09,
+   "passive_vs_active_in_r": 0.91
+  },
+  "M3": {
+   "active_out_in": 0.07,
+   "passive_out_in": 0.04,
+   "passive_over_active_var_in": 0.9,
+   "passive_vs_active_in_r": 0.99
+  }
+ },
+ "pm_g0|all_inputs_s0": {
+  "M1": {
+   "active_out_in": -0.0,
+   "passive_out_in": 0.14,
+   "passive_over_active_var_in": 0.97,
+   "passive_vs_active_in_r": 0.89
+  },
+  "M2": {
+   "active_out_in": 0.11,
+   "passive_out_in": 0.21,
+   "passive_over_active_var_in": 1.09,
+   "passive_vs_active_in_r": 0.85
+  },
+  "M3": {
+   "active_out_in": -0.03,
+   "passive_out_in": 0.1,
+   "passive_over_active_var_in": 0.9,
+   "passive_vs_active_in_r": 0.9
+  }
+ },
+ "pm_g0|all_inputs_s1": {
+  "M1": {
+   "active_out_in": 0.46,
+   "passive_out_in": 0.51,
+   "passive_over_active_var_in": 0.99,
+   "passive_vs_active_in_r": 0.93
+  },
+  "M2": {
+   "active_out_in": 0.2,
+   "passive_out_in": 0.28,
+   "passive_over_active_var_in": 1.01,
+   "passive_vs_active_in_r": 0.9
+  },
+  "M3": {
+   "active_out_in": -0.1,
+   "passive_out_in": 0.1,
+   "passive_over_active_var_in": 1.05,
+   "passive_vs_active_in_r": 0.86
+  }
+ },
+ "pm_g0|swap_s0": {
+  "M1": {
+   "active_out_in": 0.44,
+   "passive_out_in": 0.28,
+   "passive_over_active_var_in": 0.87,
+   "passive_vs_active_in_r": 0.98
+  },
+  "M2": {
+   "active_out_in": 0.24,
+   "passive_out_in": 0.16,
+   "passive_over_active_var_in": 0.9,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M3": {
+   "active_out_in": -0.33,
+   "passive_out_in": -0.2,
+   "passive_over_active_var_in": 1.05,
+   "passive_vs_active_in_r": 0.92
+  }
+ },
+ "pm_g0|swap_s1": {
+  "M1": {
+   "active_out_in": 0.44,
+   "passive_out_in": 0.31,
+   "passive_over_active_var_in": 0.88,
+   "passive_vs_active_in_r": 0.99
+  },
+  "M2": {
+   "active_out_in": 0.45,
+   "passive_out_in": 0.42,
+   "passive_over_active_var_in": 0.93,
+   "passive_vs_active_in_r": 1.0
+  },
+  "M3": {
+   "active_out_in": -0.11,
+   "passive_out_in": 0.02,
+   "passive_over_active_var_in": 1.08,
+   "passive_vs_active_in_r": 0.91
+  }
+ }
+}

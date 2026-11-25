@@ -1,0 +1,178 @@
+{
+ "vel_tanh|hier_s0": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.29,
+   "t_onset": 60
+  },
+  "M2": {
+   "t_min": 120,
+   "r_min": -0.74,
+   "t_onset": 0
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.64,
+   "t_onset": 100
+  },
+  "hand_vel": {
+   "t_min": 180,
+   "r_min": -1.0,
+   "t_onset": -100
+  }
+ },
+ "vel_tanh|hier_s1": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.22,
+   "t_onset": 200
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.7,
+   "t_onset": -40
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.53,
+   "t_onset": 100
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -0.99,
+   "t_onset": -140
+  }
+ },
+ "vel_tanh|hier_s2": {
+  "M1": {
+   "t_min": 260,
+   "r_min": -0.44,
+   "t_onset": 40
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.88,
+   "t_onset": -220
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": -0.87,
+   "t_onset": -20
+  },
+  "hand_vel": {
+   "t_min": 180,
+   "r_min": -1.0,
+   "t_onset": -140
+  }
+ },
+ "vel_tanh|hier_s3": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.32,
+   "t_onset": 40
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.82,
+   "t_onset": -40
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": -0.86,
+   "t_onset": 20
+  },
+  "hand_vel": {
+   "t_min": 180,
+   "r_min": -1.0,
+   "t_onset": -100
+  }
+ },
+ "vel_tanh|hier_s4": {
+  "M1": {
+   "t_min": 180,
+   "r_min": -0.38,
+   "t_onset": 40
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.78,
+   "t_onset": -20
+  },
+  "M3": {
+   "t_min": 120,
+   "r_min": -0.66,
+   "t_onset": -40
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -0.99,
+   "t_onset": -140
+  }
+ },
+ "vel_tanh|hier_s5": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.12,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.83,
+   "t_onset": 20
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": -0.83,
+   "t_onset": 40
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -1.0,
+   "t_onset": -140
+  }
+ },
+ "vel_tanh|single_s0": {
+  "M1": {
+   "t_min": 200,
+   "r_min": -0.24,
+   "t_onset": 80
+  },
+  "M2": {
+   "t_min": 200,
+   "r_min": -0.25,
+   "t_onset": 140
+  },
+  "M3": {
+   "t_min": 180,
+   "r_min": -0.19,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -1.0,
+   "t_onset": -120
+  }
+ },
+ "vel_tanh|single_s1": {
+  "M1": {
+   "t_min": 200,
+   "r_min": -0.34,
+   "t_onset": 40
+  },
+  "M2": {
+   "t_min": 140,
+   "r_min": -0.42,
+   "t_onset": 60
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.48,
+   "t_onset": 60
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ }
+}

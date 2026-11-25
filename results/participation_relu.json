@@ -1,0 +1,426 @@
+{
+ "relu_reg01|hier_s0": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.488,
+    "null": 0.281,
+    "spearman": 0.319
+   },
+   "exec-ret": {
+    "overlap": 0.118,
+    "null": 0.266,
+    "spearman": -0.344
+   },
+   "prep-ret": {
+    "overlap": 0.172,
+    "null": 0.25,
+    "spearman": -0.071
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.655,
+    "null": 0.228,
+    "spearman": 0.743
+   },
+   "exec-ret": {
+    "overlap": 0.116,
+    "null": 0.225,
+    "spearman": -0.072
+   },
+   "prep-ret": {
+    "overlap": 0.158,
+    "null": 0.246,
+    "spearman": -0.064
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.128,
+    "null": 0.195,
+    "spearman": -0.034
+   },
+   "exec-ret": {
+    "overlap": 0.376,
+    "null": 0.356,
+    "spearman": -0.084
+   },
+   "prep-ret": {
+    "overlap": 0.201,
+    "null": 0.195,
+    "spearman": -0.091
+   }
+  }
+ },
+ "relu_reg01|hier_s1": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.436,
+    "null": 0.266,
+    "spearman": 0.283
+   },
+   "exec-ret": {
+    "overlap": 0.122,
+    "null": 0.257,
+    "spearman": -0.237
+   },
+   "prep-ret": {
+    "overlap": 0.135,
+    "null": 0.269,
+    "spearman": -0.273
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.624,
+    "null": 0.258,
+    "spearman": 0.681
+   },
+   "exec-ret": {
+    "overlap": 0.193,
+    "null": 0.263,
+    "spearman": 0.201
+   },
+   "prep-ret": {
+    "overlap": 0.224,
+    "null": 0.257,
+    "spearman": 0.256
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.168,
+    "null": 0.226,
+    "spearman": 0.015
+   },
+   "exec-ret": {
+    "overlap": 0.312,
+    "null": 0.306,
+    "spearman": -0.198
+   },
+   "prep-ret": {
+    "overlap": 0.169,
+    "null": 0.222,
+    "spearman": -0.092
+   }
+  }
+ },
+ "relu_reg01|hier_s2": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.468,
+    "null": 0.236,
+    "spearman": 0.334
+   },
+   "exec-ret": {
+    "overlap": 0.173,
+    "null": 0.261,
+    "spearman": -0.221
+   },
+   "prep-ret": {
+    "overlap": 0.115,
+    "null": 0.249,
+    "spearman": -0.418
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.548,
+    "null": 0.281,
+    "spearman": 0.626
+   },
+   "exec-ret": {
+    "overlap": 0.113,
+    "null": 0.243,
+    "spearman": -0.01
+   },
+   "prep-ret": {
+    "overlap": 0.204,
+    "null": 0.247,
+    "spearman": 0.273
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.218,
+    "null": 0.171,
+    "spearman": 0.189
+   },
+   "exec-ret": {
+    "overlap": 0.294,
+    "null": 0.302,
+    "spearman": -0.11
+   },
+   "prep-ret": {
+    "overlap": 0.243,
+    "null": 0.197,
+    "spearman": 0.08
+   }
+  }
+ },
+ "relu_reg01|hier_s3": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.462,
+    "null": 0.246,
+    "spearman": 0.306
+   },
+   "exec-ret": {
+    "overlap": 0.103,
+    "null": 0.224,
+    "spearman": -0.199
+   },
+   "prep-ret": {
+    "overlap": 0.113,
+    "null": 0.223,
+    "spearman": -0.286
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.571,
+    "null": 0.299,
+    "spearman": 0.579
+   },
+   "exec-ret": {
+    "overlap": 0.281,
+    "null": 0.313,
+    "spearman": 0.145
+   },
+   "prep-ret": {
+    "overlap": 0.292,
+    "null": 0.306,
+    "spearman": 0.123
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.15,
+    "null": 0.188,
+    "spearman": 0.122
+   },
+   "exec-ret": {
+    "overlap": 0.217,
+    "null": 0.319,
+    "spearman": -0.357
+   },
+   "prep-ret": {
+    "overlap": 0.106,
+    "null": 0.188,
+    "spearman": -0.328
+   }
+  }
+ },
+ "relu_reg01|swap_s0": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.198,
+    "null": 0.279,
+    "spearman": 0.009
+   },
+   "exec-ret": {
+    "overlap": 0.398,
+    "null": 0.287,
+    "spearman": 0.224
+   },
+   "prep-ret": {
+    "overlap": 0.251,
+    "null": 0.305,
+    "spearman": -0.034
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.132,
+    "null": 0.234,
+    "spearman": -0.148
+   },
+   "exec-ret": {
+    "overlap": 0.596,
+    "null": 0.346,
+    "spearman": 0.608
+   },
+   "prep-ret": {
+    "overlap": 0.374,
+    "null": 0.252,
+    "spearman": 0.328
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.165,
+    "null": 0.302,
+    "spearman": -0.312
+   },
+   "exec-ret": {
+    "overlap": 0.219,
+    "null": 0.271,
+    "spearman": -0.192
+   },
+   "prep-ret": {
+    "overlap": 0.21,
+    "null": 0.248,
+    "spearman": -0.035
+   }
+  }
+ },
+ "relu_reg01|swap_s1": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.233,
+    "null": 0.263,
+    "spearman": 0.008
+   },
+   "exec-ret": {
+    "overlap": 0.4,
+    "null": 0.307,
+    "spearman": 0.24
+   },
+   "prep-ret": {
+    "overlap": 0.309,
+    "null": 0.302,
+    "spearman": -0.004
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.235,
+    "null": 0.262,
+    "spearman": 0.049
+   },
+   "exec-ret": {
+    "overlap": 0.669,
+    "null": 0.289,
+    "spearman": 0.705
+   },
+   "prep-ret": {
+    "overlap": 0.355,
+    "null": 0.305,
+    "spearman": 0.112
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.281,
+    "null": 0.338,
+    "spearman": -0.152
+   },
+   "exec-ret": {
+    "overlap": 0.25,
+    "null": 0.276,
+    "spearman": -0.168
+   },
+   "prep-ret": {
+    "overlap": 0.258,
+    "null": 0.248,
+    "spearman": -0.083
+   }
+  }
+ },
+ "relu_reg01|single_s0": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.177,
+    "null": 0.289,
+    "spearman": -0.385
+   },
+   "exec-ret": {
+    "overlap": 0.224,
+    "null": 0.269,
+    "spearman": -0.146
+   },
+   "prep-ret": {
+    "overlap": 0.213,
+    "null": 0.221,
+    "spearman": 0.167
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.239,
+    "null": 0.213,
+    "spearman": 0.375
+   },
+   "exec-ret": {
+    "overlap": 0.178,
+    "null": 0.23,
+    "spearman": 0.153
+   },
+   "prep-ret": {
+    "overlap": 0.303,
+    "null": 0.214,
+    "spearman": 0.292
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.18,
+    "null": 0.178,
+    "spearman": 0.383
+   },
+   "exec-ret": {
+    "overlap": 0.235,
+    "null": 0.203,
+    "spearman": 0.338
+   },
+   "prep-ret": {
+    "overlap": 0.301,
+    "null": 0.203,
+    "spearman": 0.454
+   }
+  }
+ },
+ "relu_reg01|single_s1": {
+  "M1": {
+   "prep-exec": {
+    "overlap": 0.233,
+    "null": 0.321,
+    "spearman": -0.216
+   },
+   "exec-ret": {
+    "overlap": 0.288,
+    "null": 0.324,
+    "spearman": -0.222
+   },
+   "prep-ret": {
+    "overlap": 0.286,
+    "null": 0.291,
+    "spearman": 0.069
+   }
+  },
+  "M2": {
+   "prep-exec": {
+    "overlap": 0.258,
+    "null": 0.199,
+    "spearman": 0.379
+   },
+   "exec-ret": {
+    "overlap": 0.225,
+    "null": 0.244,
+    "spearman": 0.152
+   },
+   "prep-ret": {
+    "overlap": 0.184,
+    "null": 0.187,
+    "spearman": 0.232
+   }
+  },
+  "M3": {
+   "prep-exec": {
+    "overlap": 0.173,
+    "null": 0.188,
+    "spearman": 0.301
+   },
+   "exec-ret": {
+    "overlap": 0.253,
+    "null": 0.243,
+    "spearman": 0.172
+   },
+   "prep-ret": {
+    "overlap": 0.177,
+    "null": 0.174,
+    "spearman": 0.267
+   }
+  }
+ }
+}

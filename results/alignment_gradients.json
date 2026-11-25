@@ -1,0 +1,44 @@
+{
+ "V6A": {
+  "prep_exec": [
+   0.268,
+   0.227,
+   0.315
+  ],
+  "exec_return": [
+   0.068,
+   0.049,
+   0.092
+  ]
+ },
+ "PEc": {
+  "prep_exec": [
+   0.179,
+   0.151,
+   0.214
+  ],
+  "exec_return": [
+   0.093,
+   0.072,
+   0.117
+  ]
+ },
+ "PE": {
+  "prep_exec": [
+   0.145,
+   0.13,
+   0.16
+  ],
+  "exec_return": [
+   0.16,
+   0.142,
+   0.178
+  ]
+ },
+ "V6A>PEc prep_exec P(violation)": 0.0004,
+ "PEc>V6A exec_return P(violation)": 0.06,
+ "PEc>PE prep_exec P(violation)": 0.0222,
+ "PE>PEc exec_return P(violation)": 0.0,
+ "V6A>PE prep_exec P(violation)": 0.0,
+ "PE>V6A exec_return P(violation)": 0.0
+}

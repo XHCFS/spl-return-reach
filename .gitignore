@@ -1,0 +1,13 @@
+.venv/
+data/
+__pycache__/
+*.pt
+*.npy
+*.pkl
+results/logs/
+results/kaggle_*/*
+!results/kaggle_*/*.json
+results/models/*
+!results/models/*.json
+research-plan.md
+dorsal-visuomotor-rapid-review.md

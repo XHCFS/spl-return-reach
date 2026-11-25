@@ -1,0 +1,92 @@
+{
+ "T1 prep->exec alignment V6A > PE": {
+  "stat_mean_over_monkeys": 0.102,
+  "p": 0.004497751124437781,
+  "n": [
+   [
+    127,
+    104
+   ],
+   [
+    156,
+    61
+   ]
+  ],
+  "p_holm": 0.0045
+ },
+ "T2 exec->ret alignment PE > V6A": {
+  "stat_mean_over_monkeys": 0.135,
+  "p": 0.0009995002498750624,
+  "n": [
+   [
+    104,
+    127
+   ],
+   [
+    61,
+    156
+   ]
+  ],
+  "p_holm": 0.003
+ },
+ "T3 exec/ret unit reuse (Spearman) PE > V6A": {
+  "stat_mean_over_monkeys": 0.382,
+  "p": 0.0004997501249375312,
+  "n": [
+   [
+    104,
+    127
+   ],
+   [
+    61,
+    156
+   ]
+  ],
+  "p_holm": 0.003
+ },
+ "T4 PE out~ret pattern < 0": {
+  "stat_mean_over_monkeys": -0.077,
+  "p": 0.0004997501249375312,
+  "n": [
+   [
+    104,
+    0
+   ],
+   [
+    61,
+    0
+   ]
+  ],
+  "p_holm": 0.003
+ },
+ "T5 early-return inversion PE < PEc": {
+  "stat_mean_over_monkeys": -0.094,
+  "p": 0.0014992503748125937,
+  "n": [
+   [
+    104,
+    97
+   ],
+   [
+    61,
+    134
+   ]
+  ],
+  "p_holm": 0.003
+ },
+ "T6 prep->exec alignment V6Av > V6Ad": {
+  "stat_mean_over_monkeys": 0.256,
+  "p": 0.0004997501249375312,
+  "n": [
+   [
+    23,
+    104
+   ],
+   [
+    64,
+    92
+   ]
+  ],
+  "p_holm": 0.003
+ }
+}

@@ -1,0 +1,178 @@
+{
+ "vel_relu|hier_s0": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 160,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 80,
+   "r_min": 0.02,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -180
+  }
+ },
+ "vel_relu|hier_s1": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 0,
+   "r_min": -0.01,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 80,
+   "r_min": 0.0,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -140
+  }
+ },
+ "vel_relu|hier_s2": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.06,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": 0.09,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": 0.02,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -160
+  }
+ },
+ "vel_relu|hier_s3": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.01,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 80,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "vel_relu|hier_s4": {
+  "M1": {
+   "t_min": 280,
+   "r_min": -0.09,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 260,
+   "r_min": 0.03,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 100,
+   "r_min": -0.0,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 0,
+   "r_min": -1.0,
+   "t_onset": -140
+  }
+ },
+ "vel_relu|hier_s5": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.07,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 100,
+   "r_min": 0.06,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.03,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 260,
+   "r_min": -1.0,
+   "t_onset": -260
+  }
+ },
+ "vel_relu|single_s0": {
+  "M1": {
+   "t_min": 300,
+   "r_min": 0.01,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": 0.0,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -200
+  }
+ },
+ "vel_relu|single_s1": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.02,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": 0.01,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 100,
+   "r_min": 0.11,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 260,
+   "r_min": -1.0,
+   "t_onset": -40
+  }
+ }
+}

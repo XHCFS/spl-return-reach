@@ -1,0 +1,152 @@
+{
+ "pooled": {
+  "T1 prep->exec alignment V6A > PE": {
+   "nA": 283,
+   "nB": 165,
+   "A": 0.241,
+   "B": 0.113,
+   "diff": 0.128,
+   "p": 0.0009995002498750624,
+   "p_holm": 0.003
+  },
+  "T2 exec->ret alignment PE > V6A": {
+   "nA": 165,
+   "nB": 283,
+   "A": 0.121,
+   "B": 0.017,
+   "diff": 0.104,
+   "p": 0.001999000499750125,
+   "p_holm": 0.003
+  },
+  "T3 exec/ret unit reuse (Spearman) PE > V6A": {
+   "nA": 165,
+   "nB": 283,
+   "A": 0.31,
+   "B": -0.09,
+   "diff": 0.401,
+   "p": 0.0004997501249375312,
+   "p_holm": 0.003
+  },
+  "T4 PE out~ret pattern < 0": {
+   "n": 165,
+   "stat": -0.094,
+   "corrected": -0.58,
+   "p": 0.0004997501249375312,
+   "p_holm": 0.003
+  },
+  "T5 early-return inversion PE < PEc": {
+   "nA": 165,
+   "nB": 231,
+   "A": -0.112,
+   "B": -0.012,
+   "diff": -0.1,
+   "p": 0.0004997501249375312,
+   "p_holm": 0.003
+  },
+  "T6 prep->exec alignment V6Av > V6Ad": {
+   "nA": 87,
+   "nB": 196,
+   "A": 0.433,
+   "B": 0.18,
+   "diff": 0.253,
+   "p": 0.0009995002498750624,
+   "p_holm": 0.003
+  }
+ },
+ "MonkeyF": {
+  "T1 prep->exec alignment V6A > PE": {
+   "nA": 127,
+   "nB": 104,
+   "A": 0.317,
+   "B": 0.133,
+   "diff": 0.183,
+   "p": 0.0029985007496251873
+  },
+  "T2 exec->ret alignment PE > V6A": {
+   "nA": 104,
+   "nB": 127,
+   "A": 0.101,
+   "B": 0.035,
+   "diff": 0.066,
+   "p": 0.01649175412293853
+  },
+  "T3 exec/ret unit reuse (Spearman) PE > V6A": {
+   "nA": 104,
+   "nB": 127,
+   "A": 0.383,
+   "B": -0.023,
+   "diff": 0.407,
+   "p": 0.0004997501249375312
+  },
+  "T4 PE out~ret pattern < 0": {
+   "n": 104,
+   "stat": -0.125,
+   "corrected": -0.85,
+   "p": 0.0004997501249375312
+  },
+  "T5 early-return inversion PE < PEc": {
+   "nA": 104,
+   "nB": 97,
+   "A": -0.139,
+   "B": 0.011,
+   "diff": -0.15,
+   "p": 0.0009995002498750624
+  },
+  "T6 prep->exec alignment V6Av > V6Ad": {
+   "nA": 23,
+   "nB": 104,
+   "A": 0.545,
+   "B": 0.328,
+   "diff": 0.218,
+   "p": 0.08345827086456771
+  }
+ },
+ "MonkeyS": {
+  "T1 prep->exec alignment V6A > PE": {
+   "nA": 156,
+   "nB": 61,
+   "A": 0.209,
+   "B": 0.188,
+   "diff": 0.021,
+   "p": 0.19440279860069964
+  },
+  "T2 exec->ret alignment PE > V6A": {
+   "nA": 61,
+   "nB": 156,
+   "A": 0.244,
+   "B": 0.04,
+   "diff": 0.204,
+   "p": 0.00399800099950025
+  },
+  "T3 exec/ret unit reuse (Spearman) PE > V6A": {
+   "nA": 61,
+   "nB": 156,
+   "A": 0.204,
+   "B": -0.154,
+   "diff": 0.358,
+   "p": 0.006496751624187906
+  },
+  "T4 PE out~ret pattern < 0": {
+   "n": 61,
+   "stat": -0.029,
+   "corrected": -0.15,
+   "p": 0.13993003498250875
+  },
+  "T5 early-return inversion PE < PEc": {
+   "nA": 61,
+   "nB": 134,
+   "A": -0.064,
+   "B": -0.027,
+   "diff": -0.037,
+   "p": 0.15742128935532235
+  },
+  "T6 prep->exec alignment V6Av > V6Ad": {
+   "nA": 64,
+   "nB": 92,
+   "A": 0.437,
+   "B": 0.143,
+   "diff": 0.294,
+   "p": 0.0004997501249375312
+  }
+ }
+}

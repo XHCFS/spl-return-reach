@@ -1,0 +1,354 @@
+{
+ "ctrl_reg0|out_first_s0": {
+  "M1": {
+   "t_min": 200,
+   "r_min": -0.2,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.29,
+   "t_onset": 260
+  },
+  "M3": {
+   "t_min": 300,
+   "r_min": -0.22,
+   "t_onset": 280
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "ctrl_reg0|out_first_s1": {
+  "M1": {
+   "t_min": 260,
+   "r_min": -0.29,
+   "t_onset": 80
+  },
+  "M2": {
+   "t_min": 280,
+   "r_min": -0.15,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 300,
+   "r_min": -0.46,
+   "t_onset": 240
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "ctrl_reg0|out_first_s2": {
+  "M1": {
+   "t_min": 240,
+   "r_min": -0.23,
+   "t_onset": 120
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.35,
+   "t_onset": 280
+  },
+  "M3": {
+   "t_min": 300,
+   "r_min": -0.33,
+   "t_onset": 260
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -40
+  }
+ },
+ "ctrl_reg0|out_first_s3": {
+  "M1": {
+   "t_min": 240,
+   "r_min": -0.25,
+   "t_onset": 60
+  },
+  "M2": {
+   "t_min": 220,
+   "r_min": -0.19,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 300,
+   "r_min": -0.17,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -80
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s0": {
+  "M1": {
+   "t_min": 100,
+   "r_min": -0.39,
+   "t_onset": -80
+  },
+  "M2": {
+   "t_min": 140,
+   "r_min": -0.92,
+   "t_onset": -200
+  },
+  "M3": {
+   "t_min": 180,
+   "r_min": -0.86,
+   "t_onset": 20
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -1.0,
+   "t_onset": -140
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s1": {
+  "M1": {
+   "t_min": 280,
+   "r_min": -0.22,
+   "t_onset": 20
+  },
+  "M2": {
+   "t_min": 160,
+   "r_min": -0.85,
+   "t_onset": -160
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": -0.84,
+   "t_onset": -40
+  },
+  "hand_vel": {
+   "t_min": 180,
+   "r_min": -1.0,
+   "t_onset": -180
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s2": {
+  "M1": {
+   "t_min": 160,
+   "r_min": -0.27,
+   "t_onset": -20
+  },
+  "M2": {
+   "t_min": 140,
+   "r_min": -0.8,
+   "t_onset": -60
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.82,
+   "t_onset": 20
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -1.0,
+   "t_onset": -200
+  }
+ },
+ "ctrl_reg0|vis_prop_m1_s3": {
+  "M1": {
+   "t_min": 200,
+   "r_min": -0.33,
+   "t_onset": 0
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.79,
+   "t_onset": 0
+  },
+  "M3": {
+   "t_min": 220,
+   "r_min": -0.8,
+   "t_onset": 100
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -0.99,
+   "t_onset": -60
+  }
+ },
+ "pm_g0|hier_s0": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.25,
+   "t_onset": 100
+  },
+  "M2": {
+   "t_min": 120,
+   "r_min": -0.04,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 220,
+   "r_min": -0.16,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -80
+  }
+ },
+ "pm_g0|hier_s1": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.23,
+   "t_onset": 240
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": 0.06,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 220,
+   "r_min": -0.1,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -120
+  }
+ },
+ "pm_g0|hier_s2": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.2,
+   "t_onset": 220
+  },
+  "M2": {
+   "t_min": 100,
+   "r_min": -0.1,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.31,
+   "t_onset": 140
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -120
+  }
+ },
+ "pm_g0|hier_s3": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.24,
+   "t_onset": 200
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": 0.01,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": -0.06,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -1.0,
+   "t_onset": -200
+  }
+ },
+ "pm_g0|all_inputs_s0": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.07,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.02,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 200,
+   "r_min": -0.11,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "pm_g0|all_inputs_s1": {
+  "M1": {
+   "t_min": 300,
+   "r_min": 0.21,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": 0.08,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 240,
+   "r_min": -0.16,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -40
+  }
+ },
+ "pm_g0|swap_s0": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.33,
+   "t_onset": 260
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.18,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 260,
+   "r_min": -0.34,
+   "t_onset": 40
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "pm_g0|swap_s1": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.31,
+   "t_onset": 260
+  },
+  "M2": {
+   "t_min": 300,
+   "r_min": -0.01,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 260,
+   "r_min": -0.22,
+   "t_onset": 140
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ }
+}

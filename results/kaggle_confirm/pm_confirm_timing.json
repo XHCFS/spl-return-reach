@@ -1,0 +1,178 @@
+{
+ "pm_confirm|vp12_s0": {
+  "M1": {
+   "t_min": 60,
+   "r_min": 0.02,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 60,
+   "r_min": -0.08,
+   "t_onset": null
+  },
+  "M3": {
+   "t_min": 180,
+   "r_min": -0.18,
+   "t_onset": null
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "pm_confirm|vp12_s1": {
+  "M1": {
+   "t_min": 100,
+   "r_min": -0.23,
+   "t_onset": 0
+  },
+  "M2": {
+   "t_min": 140,
+   "r_min": -0.34,
+   "t_onset": 0
+  },
+  "M3": {
+   "t_min": 220,
+   "r_min": -0.64,
+   "t_onset": 40
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -100
+  }
+ },
+ "pm_confirm|vp12_s2": {
+  "M1": {
+   "t_min": 120,
+   "r_min": -0.42,
+   "t_onset": 20
+  },
+  "M2": {
+   "t_min": 120,
+   "r_min": -0.32,
+   "t_onset": 0
+  },
+  "M3": {
+   "t_min": 160,
+   "r_min": -0.69,
+   "t_onset": 20
+  },
+  "hand_vel": {
+   "t_min": 240,
+   "r_min": -1.0,
+   "t_onset": -60
+  }
+ },
+ "pm_confirm|vp12_s3": {
+  "M1": {
+   "t_min": 80,
+   "r_min": -0.42,
+   "t_onset": -20
+  },
+  "M2": {
+   "t_min": 160,
+   "r_min": -0.34,
+   "t_onset": 60
+  },
+  "M3": {
+   "t_min": 240,
+   "r_min": -0.5,
+   "t_onset": 120
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -80
+  }
+ },
+ "pm_confirm|vis_prop_m1_s10": {
+  "M1": {
+   "t_min": 100,
+   "r_min": -0.28,
+   "t_onset": 20
+  },
+  "M2": {
+   "t_min": 100,
+   "r_min": -0.67,
+   "t_onset": -200
+  },
+  "M3": {
+   "t_min": 100,
+   "r_min": -0.7,
+   "t_onset": -140
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -0.99,
+   "t_onset": -100
+  }
+ },
+ "pm_confirm|vis_prop_m1_s11": {
+  "M1": {
+   "t_min": 160,
+   "r_min": -0.17,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 200,
+   "r_min": -0.75,
+   "t_onset": -20
+  },
+  "M3": {
+   "t_min": 240,
+   "r_min": -0.8,
+   "t_onset": 60
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -0.99,
+   "t_onset": -140
+  }
+ },
+ "pm_confirm|vis_prop_m1_s12": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.13,
+   "t_onset": null
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.59,
+   "t_onset": 20
+  },
+  "M3": {
+   "t_min": 240,
+   "r_min": -0.68,
+   "t_onset": 100
+  },
+  "hand_vel": {
+   "t_min": 220,
+   "r_min": -1.0,
+   "t_onset": -160
+  }
+ },
+ "pm_confirm|vis_prop_m1_s13": {
+  "M1": {
+   "t_min": 300,
+   "r_min": -0.31,
+   "t_onset": 40
+  },
+  "M2": {
+   "t_min": 180,
+   "r_min": -0.65,
+   "t_onset": -20
+  },
+  "M3": {
+   "t_min": 220,
+   "r_min": -0.75,
+   "t_onset": -180
+  },
+  "hand_vel": {
+   "t_min": 200,
+   "r_min": -1.0,
+   "t_onset": -200
+  }
+ }
+}

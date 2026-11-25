@@ -1,0 +1,538 @@
+[
+ {
+  "name": "hier_s0",
+  "endpoint_err_cm": 13.3,
+  "return_err_cm": 5.93,
+  "rt_out_ms": 0.0,
+  "rt_in_ms": 2.8888888888888884,
+  "M1(V6A-like)": {
+   "out_in": 0.552,
+   "delay_out": 0.92,
+   "hold_in": 0.602,
+   "delay_in": 0.506,
+   "out_hold": 0.92,
+   "condvar_out": 0.04978,
+   "condvar_in": 0.00523,
+   "align_prep_exec": 0.803,
+   "align_exec_in": 0.606
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.815,
+   "delay_out": 0.947,
+   "hold_in": 0.907,
+   "delay_in": 0.724,
+   "out_hold": 0.862,
+   "condvar_out": 0.00612,
+   "condvar_in": 0.00163,
+   "align_prep_exec": 0.88,
+   "align_exec_in": 0.718
+  },
+  "M3(PE-like)": {
+   "out_in": 0.738,
+   "delay_out": 0.944,
+   "hold_in": 0.952,
+   "delay_in": 0.641,
+   "out_hold": 0.769,
+   "condvar_out": 0.0004,
+   "condvar_in": 0.00015,
+   "align_prep_exec": 0.899,
+   "align_exec_in": 0.709
+  },
+  "muscles": {
+   "out_in": -0.133,
+   "delay_out": 0.931,
+   "hold_in": 0.88,
+   "delay_in": -0.368,
+   "out_hold": -0.15,
+   "condvar_out": 0.0,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": -0.128,
+   "delay_out": 0.941,
+   "hold_in": 0.982,
+   "delay_in": 0.097,
+   "out_hold": -0.109,
+   "condvar_out": 0.00024,
+   "condvar_in": 0.00019
+  },
+  "hand_pos": {
+   "out_in": 0.935,
+   "delay_out": 0.928,
+   "hold_in": 0.974,
+   "delay_in": 0.885,
+   "out_hold": 0.979,
+   "condvar_out": 6e-05,
+   "condvar_in": 0.00024
+  }
+ },
+ {
+  "name": "hier_s1",
+  "endpoint_err_cm": 7.04,
+  "return_err_cm": 29.36,
+  "rt_out_ms": 37.888888888888886,
+  "rt_in_ms": 48.11111111111111,
+  "M1(V6A-like)": {
+   "out_in": 0.309,
+   "delay_out": 0.922,
+   "hold_in": 0.465,
+   "delay_in": 0.299,
+   "out_hold": 0.881,
+   "condvar_out": 0.06062,
+   "condvar_in": 0.00639,
+   "align_prep_exec": 0.803,
+   "align_exec_in": 0.648
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.401,
+   "delay_out": 0.868,
+   "hold_in": 0.671,
+   "delay_in": 0.367,
+   "out_hold": 0.747,
+   "condvar_out": 0.00488,
+   "condvar_in": 0.00227,
+   "align_prep_exec": 0.765,
+   "align_exec_in": 0.5
+  },
+  "M3(PE-like)": {
+   "out_in": 0.302,
+   "delay_out": 0.845,
+   "hold_in": 0.692,
+   "delay_in": 0.183,
+   "out_hold": 0.681,
+   "condvar_out": 0.00056,
+   "condvar_in": 0.00046,
+   "align_prep_exec": 0.819,
+   "align_exec_in": 0.59
+  },
+  "muscles": {
+   "out_in": 0.165,
+   "delay_out": 0.825,
+   "hold_in": 0.663,
+   "delay_in": -0.155,
+   "out_hold": 0.592,
+   "condvar_out": 0.0,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": -0.306,
+   "delay_out": 0.792,
+   "hold_in": -0.424,
+   "delay_in": 0.242,
+   "out_hold": 0.851,
+   "condvar_out": 0.00114,
+   "condvar_in": 0.06069
+  },
+  "hand_pos": {
+   "out_in": 0.661,
+   "delay_out": 0.756,
+   "hold_in": 0.676,
+   "delay_in": 0.728,
+   "out_hold": 0.908,
+   "condvar_out": 0.00047,
+   "condvar_in": 0.00469
+  }
+ },
+ {
+  "name": "hier_s2",
+  "endpoint_err_cm": 23.14,
+  "return_err_cm": 13.12,
+  "rt_out_ms": 4.333333333333334,
+  "rt_in_ms": 0.0,
+  "M1(V6A-like)": {
+   "out_in": 0.567,
+   "delay_out": 0.906,
+   "hold_in": 0.707,
+   "delay_in": 0.461,
+   "out_hold": 0.912,
+   "condvar_out": 0.04008,
+   "condvar_in": 0.00902,
+   "align_prep_exec": 0.77,
+   "align_exec_in": 0.673
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.764,
+   "delay_out": 0.951,
+   "hold_in": 0.922,
+   "delay_in": 0.68,
+   "out_hold": 0.834,
+   "condvar_out": 0.00364,
+   "condvar_in": 0.00231,
+   "align_prep_exec": 0.87,
+   "align_exec_in": 0.794
+  },
+  "M3(PE-like)": {
+   "out_in": 0.791,
+   "delay_out": 0.971,
+   "hold_in": 0.969,
+   "delay_in": 0.732,
+   "out_hold": 0.798,
+   "condvar_out": 0.00037,
+   "condvar_in": 0.00054,
+   "align_prep_exec": 0.929,
+   "align_exec_in": 0.855
+  },
+  "muscles": {
+   "out_in": 0.386,
+   "delay_out": 0.971,
+   "hold_in": 0.937,
+   "delay_in": 0.284,
+   "out_hold": 0.319,
+   "condvar_out": 0.0,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": -0.855,
+   "delay_out": 0.843,
+   "hold_in": 0.989,
+   "delay_in": -0.696,
+   "out_hold": -0.839,
+   "condvar_out": 9e-05,
+   "condvar_in": 8e-05
+  },
+  "hand_pos": {
+   "out_in": 0.715,
+   "delay_out": 0.971,
+   "hold_in": 0.914,
+   "delay_in": 0.718,
+   "out_hold": 0.879,
+   "condvar_out": 4e-05,
+   "condvar_in": 3e-05
+  }
+ },
+ {
+  "name": "all_inputs_s0",
+  "endpoint_err_cm": 15.83,
+  "return_err_cm": 16.05,
+  "rt_out_ms": 21.555555555555554,
+  "rt_in_ms": 5.0,
+  "M1(V6A-like)": {
+   "out_in": 0.482,
+   "delay_out": 0.884,
+   "hold_in": 0.653,
+   "delay_in": 0.377,
+   "out_hold": 0.877,
+   "condvar_out": 0.05417,
+   "condvar_in": 0.00908,
+   "align_prep_exec": 0.759,
+   "align_exec_in": 0.695
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.506,
+   "delay_out": 0.909,
+   "hold_in": 0.656,
+   "delay_in": 0.41,
+   "out_hold": 0.886,
+   "condvar_out": 0.04251,
+   "condvar_in": 0.00741,
+   "align_prep_exec": 0.782,
+   "align_exec_in": 0.625
+  },
+  "M3(PE-like)": {
+   "out_in": 0.446,
+   "delay_out": 0.919,
+   "hold_in": 0.522,
+   "delay_in": 0.426,
+   "out_hold": 0.927,
+   "condvar_out": 0.03507,
+   "condvar_in": 0.00377,
+   "align_prep_exec": 0.789,
+   "align_exec_in": 0.57
+  },
+  "muscles": {
+   "out_in": 0.348,
+   "delay_out": 0.864,
+   "hold_in": 0.464,
+   "delay_in": 0.409,
+   "out_hold": 0.722,
+   "condvar_out": 1e-05,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": 0.037,
+   "delay_out": 0.921,
+   "hold_in": 0.394,
+   "delay_in": 0.177,
+   "out_hold": 0.779,
+   "condvar_out": 0.00418,
+   "condvar_in": 0.0434
+  },
+  "hand_pos": {
+   "out_in": 0.913,
+   "delay_out": 0.907,
+   "hold_in": 0.951,
+   "delay_in": 0.785,
+   "out_hold": 0.946,
+   "condvar_out": 0.0011,
+   "condvar_in": 0.0176
+  }
+ },
+ {
+  "name": "all_inputs_s1",
+  "endpoint_err_cm": 28.66,
+  "return_err_cm": 14.16,
+  "rt_out_ms": 0.0,
+  "rt_in_ms": 2.3333333333333335,
+  "M1(V6A-like)": {
+   "out_in": 0.508,
+   "delay_out": 0.952,
+   "hold_in": 0.664,
+   "delay_in": 0.486,
+   "out_hold": 0.822,
+   "condvar_out": 0.06747,
+   "condvar_in": 0.02001,
+   "align_prep_exec": 0.88,
+   "align_exec_in": 0.642
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.348,
+   "delay_out": 0.891,
+   "hold_in": 0.76,
+   "delay_in": 0.353,
+   "out_hold": 0.731,
+   "condvar_out": 0.03719,
+   "condvar_in": 0.02483,
+   "align_prep_exec": 0.679,
+   "align_exec_in": 0.627
+  },
+  "M3(PE-like)": {
+   "out_in": 0.483,
+   "delay_out": 0.94,
+   "hold_in": 0.629,
+   "delay_in": 0.445,
+   "out_hold": 0.913,
+   "condvar_out": 0.03566,
+   "condvar_in": 0.00526,
+   "align_prep_exec": 0.845,
+   "align_exec_in": 0.619
+  },
+  "muscles": {
+   "out_in": 0.364,
+   "delay_out": 0.957,
+   "hold_in": 0.238,
+   "delay_in": 0.427,
+   "out_hold": 0.784,
+   "condvar_out": 1e-05,
+   "condvar_in": 1e-05
+  },
+  "hand_vel": {
+   "out_in": -0.31,
+   "delay_out": 0.471,
+   "hold_in": 0.061,
+   "delay_in": -0.052,
+   "out_hold": -0.587,
+   "condvar_out": 0.00038,
+   "condvar_in": 0.00059
+  },
+  "hand_pos": {
+   "out_in": 0.261,
+   "delay_out": 0.906,
+   "hold_in": 0.899,
+   "delay_in": 0.336,
+   "out_hold": 0.361,
+   "condvar_out": 0.00027,
+   "condvar_in": 0.00023
+  }
+ },
+ {
+  "name": "swap_s0",
+  "endpoint_err_cm": 11.16,
+  "return_err_cm": 21.98,
+  "rt_out_ms": 8.88888888888889,
+  "rt_in_ms": 18.77777777777778,
+  "M1(V6A-like)": {
+   "out_in": 0.698,
+   "delay_out": 0.964,
+   "hold_in": 0.855,
+   "delay_in": 0.652,
+   "out_hold": 0.794,
+   "condvar_out": 0.00011,
+   "condvar_in": 7e-05,
+   "align_prep_exec": 0.874,
+   "align_exec_in": 0.728
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.697,
+   "delay_out": 0.91,
+   "hold_in": 0.839,
+   "delay_in": 0.51,
+   "out_hold": 0.845,
+   "condvar_out": 0.00134,
+   "condvar_in": 0.0003,
+   "align_prep_exec": 0.785,
+   "align_exec_in": 0.733
+  },
+  "M3(PE-like)": {
+   "out_in": 0.456,
+   "delay_out": 0.897,
+   "hold_in": 0.526,
+   "delay_in": 0.377,
+   "out_hold": 0.913,
+   "condvar_out": 0.03185,
+   "condvar_in": 0.00278,
+   "align_prep_exec": 0.726,
+   "align_exec_in": 0.621
+  },
+  "muscles": {
+   "out_in": 0.449,
+   "delay_out": 0.886,
+   "hold_in": 0.327,
+   "delay_in": 0.417,
+   "out_hold": 0.745,
+   "condvar_out": 1e-05,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": -0.129,
+   "delay_out": 0.94,
+   "hold_in": 0.694,
+   "delay_in": 0.026,
+   "out_hold": 0.159,
+   "condvar_out": 0.00549,
+   "condvar_in": 0.01901
+  },
+  "hand_pos": {
+   "out_in": 0.765,
+   "delay_out": 0.881,
+   "hold_in": 0.885,
+   "delay_in": 0.624,
+   "out_hold": 0.952,
+   "condvar_out": 0.00085,
+   "condvar_in": 0.01232
+  }
+ },
+ {
+  "name": "swap_s1",
+  "endpoint_err_cm": 25.83,
+  "return_err_cm": 11.64,
+  "rt_out_ms": 2.444444444444444,
+  "rt_in_ms": 0.0,
+  "M1(V6A-like)": {
+   "out_in": 0.867,
+   "delay_out": 0.97,
+   "hold_in": 0.926,
+   "delay_in": 0.816,
+   "out_hold": 0.924,
+   "condvar_out": 8e-05,
+   "condvar_in": 4e-05,
+   "align_prep_exec": 0.943,
+   "align_exec_in": 0.913
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.821,
+   "delay_out": 0.942,
+   "hold_in": 0.863,
+   "delay_in": 0.747,
+   "out_hold": 0.957,
+   "condvar_out": 0.00063,
+   "condvar_in": 0.00014,
+   "align_prep_exec": 0.865,
+   "align_exec_in": 0.879
+  },
+  "M3(PE-like)": {
+   "out_in": 0.665,
+   "delay_out": 0.924,
+   "hold_in": 0.671,
+   "delay_in": 0.631,
+   "out_hold": 0.983,
+   "condvar_out": 0.03563,
+   "condvar_in": 0.00286,
+   "align_prep_exec": 0.826,
+   "align_exec_in": 0.776
+  },
+  "muscles": {
+   "out_in": 0.724,
+   "delay_out": 0.944,
+   "hold_in": 0.706,
+   "delay_in": 0.733,
+   "out_hold": 0.952,
+   "condvar_out": 1e-05,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": -0.333,
+   "delay_out": 0.719,
+   "hold_in": 0.453,
+   "delay_in": -0.423,
+   "out_hold": -0.606,
+   "condvar_out": 0.00044,
+   "condvar_in": 0.0004
+  },
+  "hand_pos": {
+   "out_in": 0.506,
+   "delay_out": 0.947,
+   "hold_in": 0.973,
+   "delay_in": 0.597,
+   "out_hold": 0.631,
+   "condvar_out": 0.00032,
+   "condvar_in": 0.00038
+  }
+ },
+ {
+  "name": "single_s0",
+  "endpoint_err_cm": 20.06,
+  "return_err_cm": 7.31,
+  "rt_out_ms": 0.0,
+  "rt_in_ms": 0.0,
+  "M1(V6A-like)": {
+   "out_in": 0.3,
+   "delay_out": 0.821,
+   "hold_in": 0.541,
+   "delay_in": 0.235,
+   "out_hold": 0.731,
+   "condvar_out": 0.0154,
+   "condvar_in": 0.00197,
+   "align_prep_exec": 0.662,
+   "align_exec_in": 0.641
+  },
+  "M2(PEc-like)": {
+   "out_in": 0.243,
+   "delay_out": 0.717,
+   "hold_in": 0.809,
+   "delay_in": 0.238,
+   "out_hold": 0.433,
+   "condvar_out": 0.0053,
+   "condvar_in": 0.00295,
+   "align_prep_exec": 0.596,
+   "align_exec_in": 0.494
+  },
+  "M3(PE-like)": {
+   "out_in": 0.426,
+   "delay_out": 0.672,
+   "hold_in": 0.801,
+   "delay_in": 0.375,
+   "out_hold": 0.539,
+   "condvar_out": 0.00521,
+   "condvar_in": 0.00351,
+   "align_prep_exec": 0.628,
+   "align_exec_in": 0.598
+  },
+  "muscles": {
+   "out_in": 0.338,
+   "delay_out": 0.874,
+   "hold_in": 0.464,
+   "delay_in": 0.428,
+   "out_hold": 0.696,
+   "condvar_out": 1e-05,
+   "condvar_in": 0.0
+  },
+  "hand_vel": {
+   "out_in": -0.777,
+   "delay_out": 0.494,
+   "hold_in": 0.794,
+   "delay_in": -0.477,
+   "out_hold": -0.675,
+   "condvar_out": 0.00052,
+   "condvar_in": 0.00057
+  },
+  "hand_pos": {
+   "out_in": 0.436,
+   "delay_out": 0.451,
+   "hold_in": 0.884,
+   "delay_in": 0.029,
+   "out_hold": 0.637,
+   "condvar_out": 4e-05,
+   "condvar_in": 0.00025
+  }
+ }
+]

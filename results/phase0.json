@@ -1,0 +1,108 @@
+{
+ "alignment": {
+  "V6A": {
+   "prep->exec": [
+    0.248,
+    0.354,
+    0.965
+   ],
+   "exec->prep": [
+    0.249,
+    0.403,
+    0.993
+   ],
+   "exec->inward": [
+    0.042,
+    0.335,
+    1.0
+   ],
+   "prep->inward": [
+    0.046,
+    0.276,
+    1.0
+   ],
+   "prep->exec (cond-specific)": [
+    0.268,
+    0.373,
+    0.959
+   ]
+  },
+  "PEc": {
+   "prep->exec": [
+    0.157,
+    0.386,
+    1.0
+   ],
+   "exec->prep": [
+    0.193,
+    0.374,
+    0.999
+   ],
+   "exec->inward": [
+    0.073,
+    0.38,
+    1.0
+   ],
+   "prep->inward": [
+    0.04,
+    0.335,
+    1.0
+   ],
+   "prep->exec (cond-specific)": [
+    0.196,
+    0.367,
+    0.999
+   ]
+  },
+  "PE": {
+   "prep->exec": [
+    0.138,
+    0.329,
+    1.0
+   ],
+   "exec->prep": [
+    0.183,
+    0.366,
+    1.0
+   ],
+   "exec->inward": [
+    0.154,
+    0.418,
+    1.0
+   ],
+   "prep->inward": [
+    0.061,
+    0.329,
+    1.0
+   ],
+   "prep->exec (cond-specific)": [
+    0.171,
+    0.307,
+    0.999
+   ]
+  }
+ },
+ "decoding": {
+  "V6A": {
+   "early delay": 0.964,
+   "late delay": 0.881,
+   "move out": 0.941,
+   "hold": 0.634,
+   "move in": 0.556
+  },
+  "PEc": {
+   "early delay": 0.839,
+   "late delay": 0.706,
+   "move out": 0.9,
+   "hold": 0.605,
+   "move in": 0.487
+  },
+  "PE": {
+   "early delay": 0.459,
+   "late delay": 0.309,
+   "move out": 0.476,
+   "hold": 0.318,
+   "move in": 0.329
+  }
+ }
+}
